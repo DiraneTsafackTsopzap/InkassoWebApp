@@ -1,0 +1,1 @@
+export const Forderungs_CATEGORIES = ["Miete" , "Rechnung" , "Darlehen" , "Entschädigung" , "Sonstiges"]
